@@ -74,4 +74,4 @@ const stockExchange = [13, 34, -4, 42, 5, -5, 10, 27, 42, 10]
 //find the elements we want to work with within the array and their index numbers
 //using console.log and the index numbers of each element we need, we can display only the odd numbers
 
-console.log(stockExchange[0], stockExchange[4], stockExchange[5], stockExchange[7])
+console.log(stockExchange[0], stockExchange[4], stockExchange[5], stockExchange[7]) 

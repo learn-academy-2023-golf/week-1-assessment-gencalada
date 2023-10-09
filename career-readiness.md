@@ -17,4 +17,4 @@ Check the boxes below to certify that your LinkedIn contains:
 - [x] your last job listed in the experience section
 - [x] your new educational experience at LEARN
 - [x] at least ten professional connections
-- [x] a post about your career transition
+- [x] a post about your career transition 
